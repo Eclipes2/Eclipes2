@@ -112,14 +112,6 @@ Agile Methods · Project Planning · REST APIs · Git · Microsoft Office · Goo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eclipes2&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Interests
 
 Development · Artificial Intelligence · Big Data · Video Games · Music · Cosmology · First Aid · Theater
