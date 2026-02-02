@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am an engineering student based in **France**, specializing in **Big Data, Artificial Intelligence, and Project Management**.
 
@@ -30,7 +30,7 @@ Curious by nature and highly motivated, I enjoy learning new technologies, explo
 
 ---
 
-## 🧠 Expertise
+## Expertise
 
 * Full-stack web development (Front & Back-end)
 * Big Data systems & data warehousing
@@ -41,7 +41,7 @@ Curious by nature and highly motivated, I enjoy learning new technologies, explo
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -80,7 +80,7 @@ Agile Methods · Project Planning · REST APIs · Git · Microsoft Office · Goo
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Full-Stack Developer – Terre Vorace** (Jan 2025 – Apr 2025)
 
@@ -99,7 +99,7 @@ Agile Methods · Project Planning · REST APIs · Git · Microsoft Office · Goo
 
 ---
 
-## 📂 Key Projects
+## Key Projects
 
 * **Decision Support System for Healthcare (Big Data & AI-oriented)**
   Secure data warehouse integrating heterogeneous medical data (PostgreSQL, CSV, FTP), ETL pipelines, performance optimization, and Power BI dashboards to support decision-making.
@@ -112,6 +112,6 @@ Agile Methods · Project Planning · REST APIs · Git · Microsoft Office · Goo
 
 ---
 
-## 🎯 Interests
+## Interests
 
 Development · Artificial Intelligence · Big Data · Video Games · Music · Cosmology · First Aid · Theater
